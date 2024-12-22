@@ -1,5 +1,4 @@
-# Hiii!
+# Web-page using pure HTML & CSS
 ***
-It is my first web page. I'm going to do some improvements with using JavaScript in future. 
-
-Btw, I added the Page for this project!!
+Демонстрационная веб-страница с lorem наполнением посвященная тематике донорства.  
+Стилизированные кнопки и лакончиный дизайн, тематические картинки.
